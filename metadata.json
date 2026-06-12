@@ -1,0 +1,6 @@
+{
+  "name": "ENV Digital Dashboard",
+  "description": "Painel de controle financeiro moderno, responsivo e customizável com gráficos, filtros avançados, auditoria de logs e modo escuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
